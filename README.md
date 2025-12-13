@@ -31,6 +31,9 @@
 ## 👨‍💻 About Me
 
 ```python
+<details>
+<summary><b>👁️ Click to view my profile details</b></summary>
+<br>
 class VimalDharan:
     def __init__(self):
         self.name = "Vimal Dharan N."
@@ -57,6 +60,8 @@ class VimalDharan:
     def get_aspirations(self):
         return "To build cutting-edge AI solutions that bridge creativity and technology"
 ```
+
+</details>
 
 <div align="center">
 
