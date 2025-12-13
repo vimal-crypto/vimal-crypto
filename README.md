@@ -24,6 +24,22 @@
   </a>
 </p>
 
+---
+
+<div align="center">
+
+## 🔥 **OPEN TO OPPORTUNITIES** 🔥
+
+**Actively seeking AI Engineer / Computer Vision Engineer roles**
+
+[![Hire Me](https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:vimalvimal1293@gmail.com)
+[![Expected CTC](https://img.shields.io/badge/Expected%20CTC-10+%20LPA-blue?style=for-the-badge&logo=moneygram&logoColor=white)](#)
+[![Notice Period](https://img.shields.io/badge/Notice%20Period-Immediate%20Joiner-orange?style=for-the-badge&logo=calendar&logoColor=white)](#)
+
+**🎯 Core Competencies:** Deep Learning • Computer Vision • Multimodal AI • Real-Time Systems • Research Implementation
+
+</div>
+
 </div>
 
 ---
@@ -100,29 +116,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal-crypto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-crypto&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-crypto&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal-crypto&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🤖 [Perceptive Multimodal Generative AI (PMG-AI)](https://github.com/vimal-crypto/perceptive-multimodal-generative-ai)
@@ -175,6 +168,10 @@
 📖 **Perceptive Multimodal Generative AI (PMG-2)** 
 *Authors:* Rithani M., Sidesh Sundar S., Vimal Dharan N. 
 *Focus:* Text-to-image synthesis, animation, and 2D-to-3D reconstruction
+
+■ **EMG-Based Hand Gesture Recognition for Assistive Technologies**
+*Authors:* Vimal Dharan N., [Co-authors TBD]
+*Focus:* Real-time EMG signal processing, feature engineering, and ML-based gesture classification for human-computer interaction
 
 ---
 
