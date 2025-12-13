@@ -30,38 +30,6 @@
 
 ## 👨‍💻 About Me
 
-```python
-<details>
-<summary><b>👁️ Click to view my profile details</b></summary>
-<br>
-class VimalDharan:
-    def __init__(self):
-        self.name = "Vimal Dharan N."
-        self.role = "AI Engineer & Researcher"
-        self.education = "B.Tech in CSE (AI Specialization)"
-        self.institution = "Amrita Vishwa Vidyapeetham, Chennai"
-        self.location = "Tamil Nadu, India"
-        self.experience = [
-            "Multimodal Generative AI Systems",
-            "Computer Vision & Deep Learning",
-            "Real-time Object Detection",
-            "3D Reconstruction & AR/VR"
-        ]
-        
-    def get_current_focus(self):
-        return [
-            "🔬 Building AI-powered multimodal generative systems",
-            "🎨 Exploring Stable Diffusion & CLIP-based models",
-            "🤖 Developing real-time ML applications",
-            "📚 Contributing to AI research papers",
-            "💼 Seeking opportunities in AI/ML Engineering"
-        ]
-    
-    def get_aspirations(self):
-        return "To build cutting-edge AI solutions that bridge creativity and technology"
-```
-
-</details>
 
 <div align="center">
 
