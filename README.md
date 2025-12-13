@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vimal%20Dharan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <!-- Professional Title Badge -->
-<h3 align="center">🚀 AI Engineer | Deep Learning Specialist | Computer Vision Enthusiast</h3>
-
+<h3 align="center">🚀 AI Engineer | I Help Build High-Performance GenAI & Computer Vision Solutions | PyTorch - TensorFlow - Built 5+ AI Projects | Python Expert | Open to Entry-Level AI & ML Roles</h3>
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vimal-crypto&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -16,8 +15,7 @@
   <a href="mailto:vimalvimal1293@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vimaldharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vimal-dharan-400b782b6/">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vimal-crypto">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
