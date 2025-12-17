@@ -278,17 +278,6 @@ def fun_facts():
     }
 ```
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vimal-crypto&theme=tokyonight" />
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
