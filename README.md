@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/UNet-4A90E2?style=for-the-badge&logo=neural-network&logoColor=white" />
   <img src="https://img.shields.io/badge/VAE-9B59B6?style=for-the-badge&logo=autoencoders&logoColor=white" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLIP-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 💻 Programming Languages
@@ -83,8 +84,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge&logo=object-oriented&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Structures-306998?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ### 📊 Data Science & Visualization
@@ -262,23 +264,6 @@ Development
 - 🛠️ **Technical Skills:** 15+ AI/ML frameworks and tools mastered
 - 💡 **Innovation:** Created unified platform for multimodal generative AI
 
----
-
-## 💡 Fun Facts
-
-```python
-def fun_facts():
-    return {
-        "coding_soundtrack": "Lo-fi beats & Deep Focus playlists",
-        "debugging_fuel": "Coffee ☕ (Lots of it!)",
-        "favorite_framework": "PyTorch 🔥",
-        "dream_project": "Building AGI that understands art & creativity",
-        "hobby": "Exploring new AI papers on arXiv",
-        "motto": "AI should augment human creativity, not replace it"
-    }
-```
-
-
 ## 📚 Currently Learning
 
 - 🧠 **Agentic AI** - Building autonomous AI agents with LangChain & AutoGPT
@@ -286,15 +271,6 @@ def fun_facts():
 - ⚙️ **MLOps** - Docker, Kubernetes, CI/CD for ML models
 - 🛡️ **AI Safety** - Alignment, interpretability, and robustness
 - 📊 **Advanced Computer Vision** - NeRF, Gaussian Splatting, 3D Vision
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
 
