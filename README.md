@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Modern Minimalist Dynamic Header with Waving Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Vimal%20Dharan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20ENGINEER%20|%20GENERATIVE%20AI%20%26%20COMPUTER%20VISION&descSize=20&descAlignY=65" alt="Header" />
+<!-- Dynamic Header with Wave Animation & Multi-Color Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vimal%20Dharan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%26%20COMPUTER%20VISION&descSize=20&descAlignY=65" alt="Header" />
 <br />
 
 <!-- Profile Stats & Immediate Availability -->
@@ -106,10 +106,11 @@ graph TD
 ---
 
 <div align="center">
+
 ### 📬 INITIALIZE CONNECTION
 <img src="https://img.shields.io/badge/READY_TO_JOIN-IMMEDIATE-00d2ff?style=for-the-badge" />
 <br />
 <b>Chennai | Bengaluru | Hyderabad | Pune | Coimbatore | Remote</b>
 <br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
